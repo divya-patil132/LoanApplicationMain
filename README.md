@@ -127,10 +127,6 @@ The backend should be available at `http://localhost:8080` (default). Configure 
 
 ## ✍️ Author
 
-Mayuri Chaudhari — **[patildivya237@gmail.com](mailto:patildivya237@gmail.com)**
+Divya Patil — **[patildivya237@gmail.com](mailto:patildivya237@gmail.com)**
 
 ---
-
-## 📜 License
-
-This project is released under the MIT License. Feel free to update the license file as required.
