@@ -10,7 +10,7 @@ This is the backend API for the **Home Loan Finance Management System** built wi
 
 ## 🔗 Repositories
 
-* **Backend Repo** – [https://github.com/mayuripy/LoanApplicationBackend](https://github.com/mayuripy/LoanApplicationBackend)
+* **Backend Repo** – [https://github.com/divya-patil132/LoanApplicationBackend](https://github.com/divya-patil132/LoanApplicationBackend)
 * **Frontend Repo** – *Loan Management System Frontend (clone and run separately)*
 
 ---
@@ -82,7 +82,7 @@ Home_loan_Finance/
 
 ```bash
 # clone backend
-git clone https://github.com/mayuripy/LoanApplicationBackend.git
+git clone https://github.com/divya-patil132/LoanApplicationBackend.git
 cd LoanApplicationBackend
 
 # open the project in your IDE
@@ -127,7 +127,7 @@ The backend should be available at `http://localhost:8080` (default). Configure 
 
 ## ✍️ Author
 
-Mayuri Chaudhari — **[chaudharimayuri2004@gmail.com](mailto:chaudharimayuri2004@gmail.com)**
+Mayuri Chaudhari — **[patildivya237@gmail.com](mailto:patildivya237@gmail.com)**
 
 ---
 
