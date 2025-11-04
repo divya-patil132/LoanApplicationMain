@@ -116,7 +116,6 @@ mvn spring-boot:run
 The backend should be available at `http://localhost:8080` (default). Configure the frontend to point to this backend for full system functionality.
 
 ---
-
 ## 📌 Notes & Tips
 
 * Use Postman or Insomnia to test REST endpoints locally.
@@ -124,7 +123,6 @@ The backend should be available at `http://localhost:8080` (default). Configure 
 * Add unit and integration tests for critical services (authentication, loan lifecycle, document verification).
 
 ---
-
 ## ✍️ Author
 
 Divya Patil — **[patildivya237@gmail.com](mailto:patildivya237@gmail.com)**
